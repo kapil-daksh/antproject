@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="107206" started-at="2014-03-03T10:15:07Z" finished-at="2014-03-03T10:16:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="107206" started-at="2014-03-03T10:15:07Z" finished-at="2014-03-03T10:16:54Z">
+      <class name="com.kapil.firstclass">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.kapil.firstclass@53d334a8]" name="testLogin" duration-ms="107086" started-at="2014-03-03T15:45:07Z" finished-at="2014-03-03T15:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- com.kapil.firstclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
